@@ -19,5 +19,5 @@ from web.views import manage
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^manage/', ),
+    url(r'^manage/',manage.index),
 ]

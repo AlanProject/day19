@@ -4,5 +4,6 @@
     <data-source name="web" uuid="664805c3-1b0e-47f7-ae85-6d67cc86e4ee">
       <secret-storage>master_key</secret-storage>
     </data-source>
+    <data-source name="Django default" uuid="0b567ea6-d0a4-4e91-a936-cff5ae7c1d5f" />
   </component>
 </project>
